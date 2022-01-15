@@ -1,10 +1,13 @@
 import React from "react";
-import Header from "./header";
+import Hero from "./Hero";
+
+import Navbar from "./Navbar";
 
 const Layout = () => {
   return (
     <>
-      <Header />
+      <Navbar />
+      <Hero />
     </>
   );
 };
