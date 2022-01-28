@@ -16,7 +16,7 @@ const Hero = () => {
             QUENTIN LEE
           </h1>
           <p className="text-txt leading-relaxed">
-            Junior full-stack developer &amp; ex-marketer based in Paris,
+            Junior Full Stack Developer &amp; ex-marketer based in Paris,
             currently looking for a one-year apprenticeship.
           </p>
           <div className="rounded-md shadow my-5">
