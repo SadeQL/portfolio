@@ -11,7 +11,7 @@ import sqlImg from "../imgs/sql.png";
 const TechStacks = () => {
   return (
     <>
-      <div className="mb-16">
+      <div className="mb-16" id="stacks">
         <dh-component>
           <div className="container flex justify-center mx-auto pt-16">
             <div>

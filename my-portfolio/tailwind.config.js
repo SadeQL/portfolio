@@ -13,6 +13,7 @@ module.exports = {
         "main-200": "#1c1d1f",
         menu: "#F7FADC",
         txt: "#FFFAF4",
+        footer: "9fc0c4",
       },
     },
   },

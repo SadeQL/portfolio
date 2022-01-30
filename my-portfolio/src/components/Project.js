@@ -6,7 +6,7 @@ import teaImg from "../imgs/tea.png";
 const Project = () => {
   return (
     <>
-      <div className="mb-16">
+      <div className="mb-16" id="projects">
         <dh-component>
           <div className="container flex justify-center mx-auto pt-16">
             <div>
@@ -63,7 +63,7 @@ const Project = () => {
                               height="24"
                               viewBox="0 0 24 24"
                               fill="none"
-                              stroke="#718096"
+                              stroke="#27363b"
                               stroke-width="1.5"
                               stroke-linecap="round"
                               stroke-linejoin="round"
@@ -85,7 +85,7 @@ const Project = () => {
                               height="24"
                               viewBox="0 0 24 24"
                               fill="none"
-                              stroke="#718096"
+                              stroke="#27363b"
                               stroke-width="1"
                               stroke-linecap="round"
                               stroke-linejoin="round"
@@ -140,7 +140,7 @@ const Project = () => {
                               height="24"
                               viewBox="0 0 24 24"
                               fill="none"
-                              stroke="#718096"
+                              stroke="#27363b"
                               stroke-width="1.5"
                               stroke-linecap="round"
                               stroke-linejoin="round"
@@ -194,7 +194,7 @@ const Project = () => {
                               height="24"
                               viewBox="0 0 24 24"
                               fill="none"
-                              stroke="#718096"
+                              stroke="#27363b"
                               stroke-width="1.5"
                               stroke-linecap="round"
                               stroke-linejoin="round"

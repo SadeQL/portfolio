@@ -6,9 +6,16 @@ import { BellIcon, MenuIcon, XIcon } from "@heroicons/react/outline";
 
 const navigation = [
   { name: "Home", href: "#", current: true },
-  { name: "Projects", href: "#", current: false },
-  { name: "Contact", href: "#", current: false },
-  { name: "Resume", href: "#", current: false },
+  { name: "Stacks", href: "#stacks", current: false },
+  { name: "Projects", href: "#projects", current: false },
+  { name: "About Me", href: "#aboutMe", current: false },
+
+  {
+    name: "Resume",
+    href: "https://drive.google.com/file/d/1EwUpWACsmjlAdi0N7y0zVyd5fjI6R39t/view?usp=sharing",
+
+    current: false,
+  },
 ];
 
 function classNames(...classes) {
