@@ -21,7 +21,7 @@ const Hero = () => {
           </p>
           <div className="rounded-md shadow my-5">
             <a
-              href="#"
+              href="#aboutMe"
               className="w-full flex items-center justify-center px-5 py-2 border border-transparent font-medium rounded-md text-blue bg-txt hover:bg-menu  md:py-2 md:px-5"
             >
               Get to know me
