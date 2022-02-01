@@ -11,7 +11,7 @@ const About = () => {
               <h2 className="text-3xl font-bold text-menu">Who I am</h2>
 
               <p className="mt-4 text-txt leading-6 lg:max-w-md">
-                Hello, I'm Quentin, Front End Developer Student at{" "}
+                Hello, I'm Quentin, Full Stack Developer Student at{" "}
                 <a
                   className="font-bold text-blue-600 dark:text-blue-400"
                   href="https://adatechschool.fr/"
