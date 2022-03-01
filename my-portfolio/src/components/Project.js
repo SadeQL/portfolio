@@ -2,6 +2,7 @@ import React from "react";
 import aperoImg from "../imgs/apero_1.png";
 import correcteurImg from "../imgs/correcteur_grammaire.png";
 import teaImg from "../imgs/tea.png";
+import rsImg from "../imgs/rs.jpg";
 
 const Project = () => {
   return (
@@ -15,6 +16,7 @@ const Project = () => {
               </h1>
             </div>
           </div>
+
           <div className="w-full bg-gray-100 px-10 pt-10">
             <div className="container mx-auto">
               <div
@@ -162,7 +164,7 @@ const Project = () => {
                     <div className="absolute -mt-20 w-full flex justify-center">
                       <div className="h-32 w-32">
                         <img
-                          src={teaImg}
+                          src={rsImg}
                           alt="Display Project: Tea Shop image"
                           role="img"
                           className="rounded-full object-cover h-full w-full shadow-md"
@@ -171,19 +173,19 @@ const Project = () => {
                     </div>
                     <div className="px-6 mt-16">
                       <h1 className="font-bold text-3xl text-center mb-1">
-                        Cozy Tea Shop
+                        Social Network
                       </h1>
                       <p className="text-gray-800 text-sm text-center">
-                        HTML5, CSS3
+                        PHP8, MySQLi, CSS
                       </p>
                       <p className="text-center text-gray-600 text-base pt-3 font-normal">
-                        A small personal exercice aiming to imporve my HTML and
-                        CSS skills. This project consists of a fictional tea
-                        shop where I need to display different products.
+                        A group project conceived to learn manipulating dynamic
+                        data, including create hashtags, accounts, posting new
+                        content, and so on.
                       </p>
                       <div className="w-full flex justify-center pt-5 pb-5">
                         <a
-                          href="https://github.com/SadeQL/tea-cozy-css-exercice"
+                          href="https://github.com/adatechschool/project-collectif---reseau-social-php-team-a-mazing-iqms"
                           class="mx-5"
                           target="_blank"
                         >
